@@ -13,5 +13,8 @@ public class MainClass {
 	{
 		System.out.println("Sample Project");
 		System.out.println("Sample GIT DEMO");
+		
+		System.out.println("Test1");
+		System.out.println("Test2");
 	}
 }
